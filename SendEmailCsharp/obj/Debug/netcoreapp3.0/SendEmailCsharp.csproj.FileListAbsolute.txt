@@ -1,0 +1,14 @@
+C:\Projects\Twilio\Fut365\SendEmailCsharp\bin\Debug\netcoreapp3.0\SendEmailCsharp.exe
+C:\Projects\Twilio\Fut365\SendEmailCsharp\bin\Debug\netcoreapp3.0\SendEmailCsharp.deps.json
+C:\Projects\Twilio\Fut365\SendEmailCsharp\bin\Debug\netcoreapp3.0\SendEmailCsharp.runtimeconfig.json
+C:\Projects\Twilio\Fut365\SendEmailCsharp\bin\Debug\netcoreapp3.0\SendEmailCsharp.runtimeconfig.dev.json
+C:\Projects\Twilio\Fut365\SendEmailCsharp\bin\Debug\netcoreapp3.0\SendEmailCsharp.dll
+C:\Projects\Twilio\Fut365\SendEmailCsharp\bin\Debug\netcoreapp3.0\SendEmailCsharp.pdb
+C:\Projects\Twilio\Fut365\SendEmailCsharp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Projects\Twilio\Fut365\SendEmailCsharp\bin\Debug\netcoreapp3.0\SendGrid.dll
+C:\Projects\Twilio\Fut365\SendEmailCsharp\obj\Debug\netcoreapp3.0\SendEmailCsharp.csprojAssemblyReference.cache
+C:\Projects\Twilio\Fut365\SendEmailCsharp\obj\Debug\netcoreapp3.0\SendEmailCsharp.AssemblyInfoInputs.cache
+C:\Projects\Twilio\Fut365\SendEmailCsharp\obj\Debug\netcoreapp3.0\SendEmailCsharp.AssemblyInfo.cs
+C:\Projects\Twilio\Fut365\SendEmailCsharp\obj\Debug\netcoreapp3.0\SendEmailCsharp.csproj.CopyComplete
+C:\Projects\Twilio\Fut365\SendEmailCsharp\obj\Debug\netcoreapp3.0\SendEmailCsharp.dll
+C:\Projects\Twilio\Fut365\SendEmailCsharp\obj\Debug\netcoreapp3.0\SendEmailCsharp.pdb
